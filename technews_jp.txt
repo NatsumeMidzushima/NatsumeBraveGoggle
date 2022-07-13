@@ -14,7 +14,7 @@
 $boost=4,site=prtimes.jp
 $boost=4,site=research-er.jp
 $boost=3,site=itmedia.co.jp
-$boost=3,site=www.watch.impress.co.jp
+$boost=3,site=watch.impress.co.jp
 $boost=3,site=ascii.jp
 $boost=3,site=japan.zdnet.com
 $boost=2,site=gigazine.net
