@@ -31,5 +31,10 @@ $downrank=3,site=sankei.com
 $downrank=3,site=mainichi.jp
 $downrank=1,site=nikkei.com
 
+! Downrank Shops
+$downrank=5,site=amazon.co.jp
+$downrank=5,site=amazon.com
+$downrank=5,site=kakaku.com
+
 ! Discard My Articles
 /alis.to/NatsumeMidzushima/$discard
