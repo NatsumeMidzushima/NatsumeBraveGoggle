@@ -1,0 +1,27 @@
+! name: TechNews JP
+! description: A Goggle for searching Japanese news of technologies.
+! public: false
+! author: Natsume Midzushima
+! issues: https://twitter.com/MinatonekoJinja
+! avatar: #f06dc1
+
+! Boost News Releases
+/pr.fujitsu.com/jp/news/$boost=5
+/jpn.nec.com/press/$boost=5
+/www.honda.co.jp/news/$boost=5
+
+! Boost News Sites
+$boost=4,site=prtimes.jp
+$boost=4,site=research-er.jp
+$boost=3,site=itmedia.co.jp
+$boost=3,site=www.watch.impress.co.jp
+$boost=3,site=ascii.jp
+$boost=3,site=japan.zdnet.com
+$boost=2,site=gigazine.net
+/nazology.net/archives/category/technology/$boost=2
+
+! Boost News Communities
+$boost=3,site=srad.jp
+
+! Discard My Articles
+/alis.to/NatsumeMidzushima/$discard
