@@ -9,6 +9,7 @@
 /pr.fujitsu.com/jp/news/$boost=5
 /jpn.nec.com/press/$boost=5
 /www.honda.co.jp/news/$boost=5
+/www.*.co.jp/news/$boost=5
 
 ! Boost Tech News Sites
 $boost=4,site=prtimes.jp
