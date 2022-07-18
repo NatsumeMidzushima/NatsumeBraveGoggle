@@ -30,7 +30,7 @@ $downrank=3,site=asahi.com
 $downrank=3,site=sankei.com
 $downrank=3,site=mainichi.jp
 $downrank=1,site=nikkei.com
-$downrank=2,site=www.bloomberg.co.jp
+$downrank=2,site=bloomberg.co.jp
 
 ! Downrank Shops
 $downrank=5,site=amazon.co.jp
