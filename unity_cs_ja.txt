@@ -1,0 +1,22 @@
+! name: C Sharp and Unity Ja
+! description: A Goggle for searching Japanese information of C Sharp and Unity3D.
+! public: false
+! author: Natsume Midzushima
+
+
+! Boost C# study
+$boost=3,site=ufcpp.net
+$boost=3,site=dobon.net
+
+! Boost active tech blogs
+$boost=3,site=light11.hatenadiary.com
+$boost=3,site=tips.hecomi.com
+$boost=3,site=nn-hokuson.hatenablog.com
+$boost=3,site=www.wwwmaplesyrup-cs6.work
+
+! Boost archived tech blogs
+$boost=2,site=tsubakit1.hateblo.jp
+
+
+! Discard sites
+$discard,site=www.sejuku.net
